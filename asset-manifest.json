@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieListApp-React/static/css/main.8ee0226d.chunk.css",
+    "main.js": "/MovieListApp-React/static/js/main.42939e4a.chunk.js",
+    "main.js.map": "/MovieListApp-React/static/js/main.42939e4a.chunk.js.map",
+    "runtime~main.js": "/MovieListApp-React/static/js/runtime~main.8fb11d46.js",
+    "runtime~main.js.map": "/MovieListApp-React/static/js/runtime~main.8fb11d46.js.map",
+    "static/js/2.7b834e7d.chunk.js": "/MovieListApp-React/static/js/2.7b834e7d.chunk.js",
+    "static/js/2.7b834e7d.chunk.js.map": "/MovieListApp-React/static/js/2.7b834e7d.chunk.js.map",
+    "index.html": "/MovieListApp-React/index.html",
+    "precache-manifest.eac97aa33a3fb9acee682c70f04a36a4.js": "/MovieListApp-React/precache-manifest.eac97aa33a3fb9acee682c70f04a36a4.js",
+    "service-worker.js": "/MovieListApp-React/service-worker.js",
+    "static/css/main.8ee0226d.chunk.css.map": "/MovieListApp-React/static/css/main.8ee0226d.chunk.css.map"
+  }
+}
